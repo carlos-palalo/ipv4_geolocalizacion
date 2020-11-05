@@ -14,7 +14,7 @@ try {
         <body>
             <h1>Geolocalización de un número decimal</h1>
             <hr>
-            <form action='' method='POST'>
+            <form action='' method='GET'>
                 <p>Introduce el Nº entero:</p>
                 <p><input type='number' name='num' placeholder='Número'></p>
                 <input name='calcular' type='submit' value='Calcular'></button>
